@@ -6,5 +6,8 @@
   "repository": "git@github.com:theantichris/video-tutorials.git",
   "author": "Christopher Lamm <chris@theantichris.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
